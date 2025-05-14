@@ -25,6 +25,9 @@ This is an interactive Streamlit web application that implements a **Pair Tradin
   Get all generated signals in a CSV format.
 
 ---
+## Live Demo
+```https://pair-trading-strategy-gvze7ynb77bkv8wfeetjrs.streamlit.app/```
+---
 
 ## 📂 Project Structure
 
